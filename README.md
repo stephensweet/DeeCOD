@@ -29,4 +29,4 @@ For GUI version
 ```
 
 
-![](GeeCOD_logo.png|width=300px]
+![](https://gyazo.com/3bd1512c11912d4b5e6cded690a86940|width=300px]
