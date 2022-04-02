@@ -1,6 +1,6 @@
 # DeeCOD
+<img src="https://github.com/stephensweet/DeeCOD/blob/main/GeeCOD_logo.png" width=50% height=50%>
 
-![](https://github.com/stephensweet/DeeCOD/blob/main/GeeCOD_logo.png width=50% height=50%)
 
 
 Genetic Circuit Optimized Designer
