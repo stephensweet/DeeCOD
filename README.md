@@ -1,12 +1,20 @@
 # DeeCOD
 Genetic Circuit Optimized Designer
+This tool with implementation of Cello v2, allows users to design genetic gates of their choice, or import their prexisting verilog gate file, then choose a bacterial chassis library(s).
+Users have the ability to apply functions to the signal responses of the promoter inputs to maximize the responsivity of the genetic circuit.
+Our output is then the optimized design given these parameters utilizing a modified simulated annealing via Cello v2.
+
 ## Requirements
-`python 3.8 or above`
+[Python 3.8+](https://www.python.org/downloads/)
 
-`docker and the associated docker image as specified in the homework and the API documentation`
+[Docker](https://docs.docker.com/get-docker/)
 
-Install from [here](https://www.sfml-dev.org/tutorials/2.5/start-osx.php) if you are on macOS<br>
-Instal from [here](https://www.sfml-dev.org/tutorials/2.5/start-linux.php) if you are on Linux<br>
+## Commands
+```
+docker pull cidarlab/cello-dnacompiler:latest
+
+pip install celloapi2
+```
 
 ## Instructions
 For the terminal version
@@ -21,4 +29,4 @@ For GUI version
 ```
 
 
-![](GeeCOD_logo.png)
+![](GeeCOD_logo.png = 250x250)
