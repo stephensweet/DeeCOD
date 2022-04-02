@@ -29,4 +29,4 @@ For GUI version
 ```
 
 
-![](GeeCOD_logo.png |width=300px]
+![](GeeCOD_logo.png|width=300px]
