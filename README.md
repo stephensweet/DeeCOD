@@ -21,9 +21,12 @@ pip install celloapi2
 ```
 
 ## Instructions
+
+For both the terminal and GUI version, clone the entire repository to your device. Depending on whether you're on a mac or PC the syntax of the getcwd() commands in python may need to be adjusted to work properly. Continue reading for further instructions. 
+
 For the terminal version
 
-Some simple examples can be run using our terminal based interface by following the prompts after running the program in your environment of choice. (see workflow diagrams for more details). Currently GeeCOD only supports the Eco1C1G1T1 chassis but additional organisms can easily be incorporated into the functionality of the program if the respective input JSON files are available. 
+Some simple examples can be run using our terminal based interface by following the prompts after running the program in your environment of choice. (see workflow diagrams for more details). Currently GeeCOD only supports the Eco1C1G1T1 chassis and our custom built library of verilog files, but additional organisms can easily be incorporated into the functionality of the program if the respective input JSON files are available. The user also has the ability it import their own verilog files for their design. 
 
 For GUI version
 
