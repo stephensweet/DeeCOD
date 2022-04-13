@@ -23,12 +23,9 @@ pip install celloapi2
 ## Instructions
 For the terminal version
 
-```
-    to be edited
-```
+Some simple examples can be run using our terminal based interface by following the prompts after running the program in your environment of choice. (see workflow diagrams for more details). Currently GeeCOD only supports the Eco1C1G1T1 chassis but additional organisms can easily be incorporated into the functionality of the program if the respective input JSON files are available. 
 
 For GUI version
-```
-    to be edited
-```
+
+Our GUI implementation can also serve as a template for how the designer tool would function. But the mapping of the GUI to the functions of our program still has some bugs, therefore the right now the GUI is still just a skeleton. Nevertheless it provides the user with the structure of how to use the design tool. 
 
